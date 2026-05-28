@@ -4,4 +4,4 @@
 
 Consists of 9 tasks of increasing difficulty (see BPhO link)
 
-![Example - Task 9](media/task9graph)
+![Example - Task 9](media/task9graph.png)
