@@ -4,6 +4,6 @@
 
 My solutions for the British Physics Olympiad Computational Challenge 2024, consisting of 9 tasks of increasing difficulty.
 
-<ins>**Task 9**</ins>
+<ins>**Example - Task 9**</ins>
 
 ![Example - Task 9](media/task9graph.png)
