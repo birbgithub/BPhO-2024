@@ -2,7 +2,7 @@
 
 [BPhO-2024](https://www.bpho.org.uk/bpho/computational-challenge/BPhO_CompPhys_Challenge_2024.pdf)
 
-Consists of 9 tasks of increasing difficulty.
+My solutions for the British Physics Olympiad Computational Challenge, consisting of 9 tasks of increasing difficulty.
 
 <ins>**Task 9**</ins>
 
